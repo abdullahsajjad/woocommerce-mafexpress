@@ -1,6 +1,6 @@
 # Woocommerce with Maf Express (Shippping Integartion)
 
-### A wordPress Plugin to integrate woocommerce with maf-express( courier company )
+### A WordPress Plugin to integrate woocommerce with maf-express( courier company )
 
 ### Settings Page:
 #### Settings Under Woocommerce->Settings->Shipping->Maf Express
