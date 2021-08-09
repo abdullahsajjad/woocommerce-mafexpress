@@ -17,4 +17,4 @@
 
 #### Please submit an issue if you've found any problem
 
-<p align="center"> Made with ❤️ by  [Abdullah Sajjad](www.linkedin.com/in/abdullahsajjad)</p>.
+<p align="center"> Made with ❤️ by  <a href="https://www.linkedin.com/in/abdullahsajjad/">Abdullah Sajjad</a></p>
